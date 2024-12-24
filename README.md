@@ -1,1 +1,1 @@
-# code to decode codons 
+eat sleep A G C T repeat
