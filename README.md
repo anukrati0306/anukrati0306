@@ -1,1 +1,1 @@
-eat sleep A G C T repeat
+# eat, sleep, A G C T, repeat
